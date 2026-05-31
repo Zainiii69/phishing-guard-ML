@@ -69,7 +69,7 @@ PhishGuard-AI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MShaheer15/PhishGuard-AI.git
+git clone https://github.com/Zainiii69/PhishGuard-AI.git
 cd PhishGuard-AI
 ```
 
@@ -269,4 +269,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Author
-**Shaheer** — [GitHub](https://github.com/MShaheer15)
+**Zain Ul Abidin** — [GitHub](https://github.com/Zainiii69) | [LinkedIn](https://www.linkedin.com/in/zain-ul-abidin-014246317/)
